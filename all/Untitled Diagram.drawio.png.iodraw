@@ -64,7 +64,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t7B5qz61NjKpr4upCDdB-13" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;是否配置新的自动值守？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="140" y="600" width="160" height="80" as="geometry" />
+          <mxGeometry x="140" y="585" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t7B5qz61NjKpr4upCDdB-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t7B5qz61NjKpr4upCDdB-14" target="t7B5qz61NjKpr4upCDdB-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t7B5qz61NjKpr4upCDdB-15" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;选择网元&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t7B5qz61NjKpr4upCDdB-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="t7B5qz61NjKpr4upCDdB-16" target="t7B5qz61NjKpr4upCDdB-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
