@@ -126,6 +126,9 @@
         <mxCell id="6kl7gYGMAu2PgJvsLixm-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;智能体输出内容&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="627.5" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6kl7gYGMAu2PgJvsLixm-40" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;是否需要进一步定位分析并给出建议？&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
