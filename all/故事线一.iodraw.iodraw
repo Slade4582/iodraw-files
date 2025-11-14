@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="&lt;p class=&quot;MsoNormal&quot;&gt;故事线一&lt;span lang=&quot;EN-GB&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="120" y="110" width="1700" height="430" as="geometry" />
+          <mxGeometry x="120" y="110" width="1950" height="430" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="SideBar" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="1680" height="120" as="geometry" />
+          <mxGeometry x="20" width="1930" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" target="U0JFGafSbs2sth-Qibpz-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="5G ChatBot" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="120" width="1680" height="310" as="geometry" />
+          <mxGeometry x="20" y="120" width="1930" height="310" as="geometry" />
         </mxCell>
         <mxCell id="6kl7gYGMAu2PgJvsLixm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="6kl7gYGMAu2PgJvsLixm-1" target="6kl7gYGMAu2PgJvsLixm-6">
           <mxGeometry relative="1" as="geometry">
@@ -83,8 +83,14 @@
         <mxCell id="6kl7gYGMAu2PgJvsLixm-25" value="&lt;font size=&quot;1&quot;&gt;点击卡片：是&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="790" y="155" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6kl7gYGMAu2PgJvsLixm-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="6kl7gYGMAu2PgJvsLixm-27" target="6kl7gYGMAu2PgJvsLixm-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6kl7gYGMAu2PgJvsLixm-27" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·识别到黄金指标异常，调用CHR 分析：卡片+文字总结（top3错误码+原因+处理建议）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;eg：错误码+可能是UE支持的算法和AMF支持的算法不匹配。请收集用户跟踪，联系华为技术支持。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·识别到拨测异常，正在查询拨测告警情况：已生成拨测告警：XXX&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·识别到设备告警，调用厂商工具+建议：未识别到设备告警，无需调用工具。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·识别到72小时内有动网情况，其中异常动网有0次。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;综上分析，&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;情况1（单维度异常）：XX网元目前出现黄金指标异常，原因为（top1 CHR错误码）+CHR建议，并持续观察指标情况。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;情况2（多维度异常）：XX网元同时出现黄金指标指标异常及拨测异常，建议对该网元进行倒换操作。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="890" y="76.25" width="480" height="187.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6kl7gYGMAu2PgJvsLixm-29" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·识别到黄金指标异常，调用CHR 分析：卡片+文字总结（top3错误码+原因+处理建议）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;eg：错误码+可能是UE支持的算法和AMF支持的算法不匹配。请收集用户跟踪，联系华为技术支持。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·识别到拨测异常，正在查询拨测告警情况：已生成拨测告警：XXX&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·识别到设备告警，调用厂商工具+建议：未识别到设备告警，无需调用工具。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·识别到72小时内有动网情况，其中异常动网有0次。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;综上分析，&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;情况1（单维度异常）：XX网元目前出现黄金指标异常，原因为（top1 CHR错误码）+CHR建议，并持续观察指标情况。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;情况2（多维度异常）：XX网元同时出现黄金指标指标异常及拨测异常，建议对该网元进行倒换操作。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="1450" y="76.25" width="480" height="187.5" as="geometry" />
         </mxCell>
         <mxCell id="6kl7gYGMAu2PgJvsLixm-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="585" width="50" height="25" as="geometry" />
