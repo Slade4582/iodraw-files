@@ -25,7 +25,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="5G ChatBot" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="120" width="810" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="6kl7gYGMAu2PgJvsLixm-1" value="出现异常，触发规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="6kl7gYGMAu2PgJvsLixm-1" value="查询安徽核心网运行情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="160" y="40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U0JFGafSbs2sth-Qibpz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="U0JFGafSbs2sth-Qibpz-3" edge="1">
