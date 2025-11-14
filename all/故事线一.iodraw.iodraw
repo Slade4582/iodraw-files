@@ -43,9 +43,9 @@
         <mxCell id="6kl7gYGMAu2PgJvsLixm-106" value="&lt;font size=&quot;1&quot;&gt;进入一键容灾界面执行倒换，抢通结束。&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="2170" y="30" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6kl7gYGMAu2PgJvsLixm-112" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+        <mxCell id="6kl7gYGMAu2PgJvsLixm-112" value="" style="endArrow=none;dashed=1;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="50" as="sourcePoint" />
+            <mxPoint x="660" y="420" as="sourcePoint" />
             <mxPoint x="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
