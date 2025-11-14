@@ -75,7 +75,10 @@
           <mxGeometry x="120" y="630" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="6kl7gYGMAu2PgJvsLixm-19" value="用户输入指令/点击卡片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="582.5" width="150" height="30" as="geometry" />
+          <mxGeometry x="160" y="585" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6kl7gYGMAu2PgJvsLixm-20" value="智能体输出内容" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="627.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
