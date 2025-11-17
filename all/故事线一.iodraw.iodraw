@@ -147,6 +147,12 @@
         <mxCell id="6kl7gYGMAu2PgJvsLixm-40" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;倒换看板创建路径为：Falcomm首页-智能体-XX。&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;可在Sidebar输入“&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;我要创建容灾倒换看板，XX大区XXX资源池”&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="1650" y="200" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j-FwPHv4J0OAVGu-ipah-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="j-FwPHv4J0OAVGu-ipah-1" target="j-FwPHv4J0OAVGu-ipah-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1640" y="190" as="sourcePoint" />
+            <mxPoint x="1690" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6kl7gYGMAu2PgJvsLixm-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="6kl7gYGMAu2PgJvsLixm-40" target="6kl7gYGMAu2PgJvsLixm-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -161,12 +167,6 @@
         </mxCell>
         <mxCell id="6kl7gYGMAu2PgJvsLixm-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;智能体输出内容&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="6kl7gYGMAu2PgJvsLixm-113" vertex="1">
           <mxGeometry x="60" y="517.5" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j-FwPHv4J0OAVGu-ipah-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1780" y="420" as="sourcePoint" />
-            <mxPoint x="1830" y="370" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
