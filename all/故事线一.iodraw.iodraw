@@ -285,8 +285,10 @@
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-29" value="&lt;font size=&quot;1&quot;&gt;点击卡片：是&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
           <mxGeometry x="790" y="155" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="_XmnHBUvvoRM3XwwJ4Tu-34" target="_XmnHBUvvoRM3XwwJ4Tu-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="_XmnHBUvvoRM3XwwJ4Tu-34" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1437.1400000000003" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-33" value="情况2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_XmnHBUvvoRM3XwwJ4Tu-32" vertex="1" connectable="0">
           <mxGeometry x="0.4829" relative="1" as="geometry">
@@ -296,26 +298,8 @@
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-34" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·正在调用CHR 分析：卡片+文字总结（top3错误码+原因+处理建议）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;eg：错误码+可能是UE支持的算法和AMF支持的算法不匹配。请收集用户跟踪，联系华为技术支持。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·正在调用厂商工具：调用厂商工具+建议：未识别到设备告警，无需调用工具。/原因描述+处理措施+诊断详情。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·正在调用案例库，匹配到如下案例：XX。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;综上分析，（智能体总结上方工具分析结果）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;情况1（单维度异常）：XX网元目前出现黄金指标异常，原因为（top1 CHR错误码）+CHR建议，并持续观察指标情况。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;情况2（多维度异常）：XX网元同时出现黄金指标指标异常及拨测异常，建议对该网元进行倒换操作。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
           <mxGeometry x="890" y="76.25" width="480" height="187.5" as="geometry" />
         </mxCell>
-        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="_XmnHBUvvoRM3XwwJ4Tu-37" target="_XmnHBUvvoRM3XwwJ4Tu-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-37" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;是否创建倒换看板并进入一键容灾？&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
-          <mxGeometry x="1437.14" y="200" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="_XmnHBUvvoRM3XwwJ4Tu-39" target="_XmnHBUvvoRM3XwwJ4Tu-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-39" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;点击卡片：是&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;fontSize=9;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
-          <mxGeometry x="1560" y="215" width="70" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-40" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;倒换看板创建路径为：Falcomm首页-智能体-XX。&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;可在Sidebar输入“&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 8px;&quot;&gt;我要创建容灾倒换看板，XX大区XXX资源池”&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
           <mxGeometry x="1650" y="200" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1642.8600000000001" y="290" as="sourcePoint" />
-            <mxPoint x="1410" y="160" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-2" source="_XmnHBUvvoRM3XwwJ4Tu-34" target="_XmnHBUvvoRM3XwwJ4Tu-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
