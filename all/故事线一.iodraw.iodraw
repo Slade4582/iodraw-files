@@ -261,7 +261,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-22" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;查询全国核心网运行情况&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
+        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-22" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;查询全国核心网/X省核心网/X专业/X类网元/X台网元运行情况&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
           <mxGeometry x="150" y="55" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-23" value="&lt;font size=&quot;1&quot;&gt;当前全国核心网运行正常。&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;黄金指标、拨测无异常、动网情况、设备告警均无异常。&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
