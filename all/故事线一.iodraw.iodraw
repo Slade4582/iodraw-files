@@ -172,7 +172,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-NsaiSigj8xVlVH9FnGk" name="V3">
-    <mxGraphModel dx="795" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="128" dy="88" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,9 +285,13 @@
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-29" value="&lt;font size=&quot;1&quot;&gt;点击卡片：是&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
           <mxGeometry x="790" y="155" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="_XmnHBUvvoRM3XwwJ4Tu-34" edge="1">
+        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="_XmnHBUvvoRM3XwwJ4Tu-34" target="_XmnHBUvvoRM3XwwJ4Tu-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1437.1400000000003" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1410" y="170" />
+              <mxPoint x="1410" y="230" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-33" value="情况2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_XmnHBUvvoRM3XwwJ4Tu-32" vertex="1" connectable="0">
