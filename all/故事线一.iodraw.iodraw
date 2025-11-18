@@ -229,9 +229,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-2" source="_XmnHBUvvoRM3XwwJ4Tu-40" target="_XmnHBUvvoRM3XwwJ4Tu-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-16" value="5G ChatBot" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="_XmnHBUvvoRM3XwwJ4Tu-2" vertex="1">
           <mxGeometry x="20" y="120" width="2270" height="310" as="geometry" />
         </mxCell>
