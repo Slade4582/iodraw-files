@@ -436,6 +436,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7D1bDGLRc-fG06CYPL35-67" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;进行异常分析并给出建议&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;/直接点击引导词&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="627.5" width="130" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
