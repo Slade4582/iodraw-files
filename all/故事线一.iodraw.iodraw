@@ -294,7 +294,12 @@
           <mxGeometry x="1040" y="101.25" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="7D1bDGLRc-fG06CYPL35-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="_XmnHBUvvoRM3XwwJ4Tu-34" target="7D1bDGLRc-fG06CYPL35-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="125" />
+              <mxPoint x="1580" y="245" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-34" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·正在调用CHR 分析：卡片+文字总结（top3错误码+原因+处理建议）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;eg：错误码+可能是UE支持的算法和AMF支持的算法不匹配。请收集用户跟踪，联系华为技术支持。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·正在调用厂商工具：调用厂商工具+建议：未识别到设备告警，无需调用工具。/原因描述+处理措施+诊断详情。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·正在调用案例库，匹配到如下案例：XX。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
           <mxGeometry x="1170" y="70" width="370" height="110" as="geometry" />
@@ -339,8 +344,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1580" y="400" />
-              <mxPoint x="1580" y="230" />
-              <mxPoint x="1640" y="230" />
+              <mxPoint x="1580" y="245" />
             </Array>
           </mxGeometry>
         </mxCell>
