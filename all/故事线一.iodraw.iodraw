@@ -172,7 +172,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-NsaiSigj8xVlVH9FnGk" name="V3">
-    <mxGraphModel dx="666" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="559" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,7 +458,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7D1bDGLRc-fG06CYPL35-178" value="&lt;font size=&quot;1&quot;&gt;当前X网元&lt;/font&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;黄金指标/拨测/设备告警存在异常！&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;异常情况详情如下：xxx&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16">
-          <mxGeometry x="429.85" y="796.2941176470588" width="260" height="43.52941176470588" as="geometry" />
+          <mxGeometry x="429.85" y="790.2941176470588" width="260" height="43.52941176470588" as="geometry" />
         </mxCell>
         <mxCell id="fw8RAanhMSvWP4JXss_t-1" value="&lt;font size=&quot;1&quot;&gt;（每分钟）定时播报异常情况&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16">
           <mxGeometry x="1040" y="735.8529411764705" width="140" height="54.41176470588235" as="geometry" />
