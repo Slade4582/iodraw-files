@@ -327,9 +327,10 @@
         <mxCell id="7D1bDGLRc-fG06CYPL35-43" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·正在调用CHR 分析：卡片+文字总结（top3错误码+原因+处理建议）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;eg：错误码+可能是UE支持的算法和AMF支持的算法不匹配。请收集用户跟踪，联系华为技术支持。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;/·正在调用厂商工具：xxx&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;/·正在调用案例库，匹配到如下案例：XX。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16">
           <mxGeometry x="1170" y="237.5" width="370" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="7D1bDGLRc-fG06CYPL35-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="7D1bDGLRc-fG06CYPL35-46" target="7D1bDGLRc-fG06CYPL35-34">
+        <mxCell id="7D1bDGLRc-fG06CYPL35-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="7D1bDGLRc-fG06CYPL35-46" target="7D1bDGLRc-fG06CYPL35-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1355" y="400" />
               <mxPoint x="1355" y="480" />
               <mxPoint x="1086" y="480" />
             </Array>
