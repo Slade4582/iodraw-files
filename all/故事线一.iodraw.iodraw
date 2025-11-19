@@ -442,6 +442,9 @@
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;智能体输出内容&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="_XmnHBUvvoRM3XwwJ4Tu-1" vertex="1">
           <mxGeometry x="75" y="702.5" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7D1bDGLRc-fG06CYPL35-122" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1、查询X类网元/X台网元运行情况&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、当前X类网元/X台网元有何异常？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="260" y="438.75" width="180" height="65" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
