@@ -172,7 +172,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-NsaiSigj8xVlVH9FnGk" name="V3">
-    <mxGraphModel dx="3476" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1360" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,8 +239,8 @@
         <mxCell id="7D1bDGLRc-fG06CYPL35-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="7D1bDGLRc-fG06CYPL35-23" target="_XmnHBUvvoRM3XwwJ4Tu-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="329.94117647058823" />
-              <mxPoint x="320" y="167.7941176470588" />
+              <mxPoint x="320" y="331" />
+              <mxPoint x="320" y="124" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -269,7 +269,7 @@
           <mxGeometry x="110" y="255.6691176470588" width="180" height="70.73529411764706" as="geometry" />
         </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-23" value="&lt;font size=&quot;1&quot;&gt;当前全国/X省核心网/X网元运行正常。&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;黄金指标、拨测无异常、动网情况、设备告警均无异常。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;+引导词：您&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;div&gt;1、请查询XX省当前核心网运行情况&lt;/div&gt;&lt;div&gt;2、请查询XX省近1天所有告警工单&lt;/div&gt;&lt;div&gt;3、请查询近1天跨省物联网投诉工单&lt;/div&gt;&lt;div&gt;4、请进行脚本核查。&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
-          <mxGeometry x="429.85" y="146.02941176470588" width="260" height="51.147058823529406" as="geometry" />
+          <mxGeometry x="429.85" y="50" width="260" height="147.18" as="geometry" />
         </mxCell>
         <mxCell id="7D1bDGLRc-fG06CYPL35-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="_XmnHBUvvoRM3XwwJ4Tu-25" target="_XmnHBUvvoRM3XwwJ4Tu-27">
           <mxGeometry relative="1" as="geometry">
