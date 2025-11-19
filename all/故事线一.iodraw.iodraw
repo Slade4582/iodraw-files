@@ -385,7 +385,7 @@
         <mxCell id="7D1bDGLRc-fG06CYPL35-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="7D1bDGLRc-fG06CYPL35-46" target="7D1bDGLRc-fG06CYPL35-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7D1bDGLRc-fG06CYPL35-49" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7D1bDGLRc-fG06CYPL35-48">
+        <mxCell id="7D1bDGLRc-fG06CYPL35-49" value="继续进行单维度分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7D1bDGLRc-fG06CYPL35-48">
           <mxGeometry x="-0.139" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
