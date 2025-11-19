@@ -436,7 +436,7 @@
         <mxCell id="7D1bDGLRc-fG06CYPL35-177" value="&lt;font size=&quot;1&quot;&gt;当前X网元&lt;/font&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;黄金指标/拨测/设备告警无异常&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;+初始引导词&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16">
           <mxGeometry x="429.85" y="480" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7D1bDGLRc-fG06CYPL35-178" value="&lt;font size=&quot;1&quot;&gt;当前X网元&lt;/font&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;黄金指标/拨测/设备告警无异常&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16">
+        <mxCell id="7D1bDGLRc-fG06CYPL35-178" value="&lt;font size=&quot;1&quot;&gt;当前X网元&lt;/font&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;黄金指标/拨测/设备告警存在异常！&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;异常情况详情如下：xxx&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16">
           <mxGeometry x="429.85" y="570" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
