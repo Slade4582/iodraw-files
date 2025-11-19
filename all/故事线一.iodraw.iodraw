@@ -460,10 +460,10 @@
           <mxGeometry x="429.85" y="570" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fw8RAanhMSvWP4JXss_t-1" value="&lt;font size=&quot;1&quot;&gt;每分钟定时播报异常情况&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16">
-          <mxGeometry x="1018" y="533" width="120" height="45" as="geometry" />
+          <mxGeometry x="1026" y="533" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="fw8RAanhMSvWP4JXss_t-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;当前X省份/X网元/...（与之前用户查询粒度一致）运行存在异常情况！&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;【X省】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;异常情况详情如下：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·黄金指标：&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;异常X项。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;XX网元XX指标劣化至XX%&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·拨测情况：最近一次（时间）该网元拨测任务X次，成功X次、失败X次，拨测成功率为XX%。+当前生成拨测告警X项。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·动网情况：近72小时内安徽动网次数为X次，其中非割接时段动网x次。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·设备告警：当前活跃设备告警X条。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16">
-          <mxGeometry x="1170" y="502" width="300" height="205" as="geometry" />
+          <mxGeometry x="1185" y="502" width="300" height="205" as="geometry" />
         </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="_XmnHBUvvoRM3XwwJ4Tu-1" vertex="1">
           <mxGeometry x="81" y="918" width="50" height="25" as="geometry" />
