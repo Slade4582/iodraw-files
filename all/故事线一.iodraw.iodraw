@@ -294,7 +294,7 @@
           <mxGeometry x="1040" y="101.25" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-34" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·正在调用CHR 分析：卡片+文字总结（top3错误码+原因+处理建议）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;eg：错误码+可能是UE支持的算法和AMF支持的算法不匹配。请收集用户跟踪，联系华为技术支持。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·正在调用厂商工具：调用厂商工具+建议：未识别到设备告警，无需调用工具。/原因描述+处理措施+诊断详情。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·正在调用案例库，匹配到如下案例：XX。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
-          <mxGeometry x="1520" y="63" width="370" height="110" as="geometry" />
+          <mxGeometry x="1520" y="68.75" width="370" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7D1bDGLRc-fG06CYPL35-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1、查询X类网元/X台网元运行情况&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、当前X类网元/X台网元有何异常？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;" vertex="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16">
           <mxGeometry x="110" y="198.75" width="180" height="65" as="geometry" />
@@ -322,7 +322,7 @@
         <mxCell id="7D1bDGLRc-fG06CYPL35-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="7D1bDGLRc-fG06CYPL35-46" target="7D1bDGLRc-fG06CYPL35-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1355" y="480" />
+              <mxPoint x="1295" y="480" />
               <mxPoint x="1086" y="480" />
             </Array>
           </mxGeometry>
