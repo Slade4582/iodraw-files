@@ -231,6 +231,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7D1bDGLRc-fG06CYPL35-33" value="网元级异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7D1bDGLRc-fG06CYPL35-27">
+          <mxGeometry x="0.607" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7D1bDGLRc-fG06CYPL35-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16">
           <mxGeometry x="110" y="95" width="190" height="195" as="geometry" />
         </mxCell>
