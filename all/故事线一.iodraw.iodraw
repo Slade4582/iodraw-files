@@ -328,7 +328,7 @@
         <mxCell id="7D1bDGLRc-fG06CYPL35-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_XmnHBUvvoRM3XwwJ4Tu-16" source="7D1bDGLRc-fG06CYPL35-23" target="_XmnHBUvvoRM3XwwJ4Tu-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7D1bDGLRc-fG06CYPL35-31" value="全国/省级异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7D1bDGLRc-fG06CYPL35-26">
+        <mxCell id="7D1bDGLRc-fG06CYPL35-31" value="全国/资源池/省级异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7D1bDGLRc-fG06CYPL35-26">
           <mxGeometry x="-0.0642" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
