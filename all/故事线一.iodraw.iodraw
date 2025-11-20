@@ -449,14 +449,14 @@
         <mxCell id="7D1bDGLRc-fG06CYPL35-177" value="&lt;font size=&quot;1&quot;&gt;当前X网元&lt;/font&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;黄金指标/拨测/设备告警无异常&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;+引导词：您还可以进行：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;div&gt;1、请查询XX省当前核心网运行情况&lt;/div&gt;&lt;div&gt;2、请查询XX省近1天所有告警工单&lt;/div&gt;&lt;div&gt;3、请查询近1天跨省物联网投诉工单&lt;/div&gt;&lt;div&gt;4、请进行脚本核查。&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
           <mxGeometry x="429.85" y="620.35" width="260" height="106.65" as="geometry" />
         </mxCell>
-        <mxCell id="fw8RAanhMSvWP4JXss_t-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" edge="1">
+        <mxCell id="fw8RAanhMSvWP4JXss_t-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="770" y="890" />
-              <mxPoint x="770" y="428" />
+              <mxPoint x="770" y="798" />
+              <mxPoint x="770" y="336" />
             </Array>
-            <mxPoint x="689.8499999999997" y="890.0588235294115" as="sourcePoint" />
-            <mxPoint x="800" y="426.00000000000006" as="targetPoint" />
+            <mxPoint x="689.8499999999997" y="798.0588235294115" as="sourcePoint" />
+            <mxPoint x="800" y="322.764705882353" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7D1bDGLRc-fG06CYPL35-178" value="&lt;font size=&quot;1&quot;&gt;当前X网元&lt;/font&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;黄金指标/拨测/设备告警存在异常！&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;异常情况详情如下：xxx&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" parent="_XmnHBUvvoRM3XwwJ4Tu-16" vertex="1">
