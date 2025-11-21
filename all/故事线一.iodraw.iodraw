@@ -596,11 +596,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-28" value="异常分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-27">
-          <mxGeometry x="0.392" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lQpoQ2O5hxIxhMuzBCD2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-33" target="lQpoQ2O5hxIxhMuzBCD2-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
