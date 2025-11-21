@@ -688,7 +688,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lQpoQ2O5hxIxhMuzBCD2-55" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;进行异常分析&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
-          <mxGeometry x="1960" y="439.96000000000004" width="70" height="48.97" as="geometry" />
+          <mxGeometry x="1580" y="341.82000000000005" width="70" height="48.97" as="geometry" />
         </mxCell>
         <mxCell id="lQpoQ2O5hxIxhMuzBCD2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-57" target="lQpoQ2O5hxIxhMuzBCD2-58">
           <mxGeometry relative="1" as="geometry" />
