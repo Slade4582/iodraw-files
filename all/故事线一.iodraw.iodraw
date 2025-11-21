@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0DW6mWP0mrSlXiWPxUdS" name="V4">
-    <mxGraphModel dx="3124" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2603" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -630,7 +630,7 @@
           <mxGeometry x="429.85" y="767.2941176470588" width="260" height="43.52941176470588" as="geometry" />
         </mxCell>
         <mxCell id="lQpoQ2O5hxIxhMuzBCD2-67" value="&lt;font size=&quot;1&quot;&gt;（每分钟）定时播报异常情况&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
-          <mxGeometry x="970" y="351.32294117647064" width="140" height="54.41176470588235" as="geometry" />
+          <mxGeometry x="1040" y="331.32294117647064" width="140" height="54.41176470588235" as="geometry" />
         </mxCell>
         <mxCell id="lQpoQ2O5hxIxhMuzBCD2-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-71" target="lQpoQ2O5hxIxhMuzBCD2-67">
           <mxGeometry relative="1" as="geometry" />
@@ -641,7 +641,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lQpoQ2O5hxIxhMuzBCD2-71" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;当前X省份/X网元/...（与之前用户查询粒度一致）运行存在异常情况！&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div&gt;黄金指标告警X项、拨测告警X项、异常动网X项、设备告警X项&lt;br&gt;&lt;/div&gt;&lt;div&gt;异常情况详情如下：&lt;/div&gt;&lt;div&gt;·黄金指标：当&lt;span style=&quot;background-color: initial;&quot;&gt;前活跃&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;1/2&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;级黄金指标告警共&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;X&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;条。近&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;72&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;小时内共产生&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;1/2&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;级告警&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;X&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;条。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;XX网元XX指标劣化至XX%&lt;/span&gt;&lt;/div&gt;&lt;div&gt;·拨测情况：&lt;span style=&quot;background-color: initial;&quot;&gt;拨测告警XX条，主要影响XX业务&lt;/span&gt;&lt;/div&gt;&lt;div&gt;30分钟内A省拨测XX次，失败XX次，拨测成功率为XX%&lt;/div&gt;&lt;div&gt;·动网情况：当前异常动网告警X条。近72小时内安徽动网次数为X次。&lt;/div&gt;&lt;div&gt;·设备告警：当前活跃严重设备告警X条。近72小时内设备告警共X条。&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;+同上一次播报差异对比&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;+引导词：&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;1、如需停止播报，请输入“停止播报”&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;2、是否修改播报周期为3min/5min？&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;3、是否进行异常分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
-          <mxGeometry x="1150" y="282.76" width="320.3" height="226.35" as="geometry" />
+          <mxGeometry x="1220" y="262.76" width="320.3" height="226.35" as="geometry" />
         </mxCell>
         <mxCell id="lQpoQ2O5hxIxhMuzBCD2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-67" target="lQpoQ2O5hxIxhMuzBCD2-71">
           <mxGeometry relative="1" as="geometry" />
