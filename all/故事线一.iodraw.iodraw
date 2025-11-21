@@ -710,6 +710,9 @@
         <mxCell id="m7Ru2etV0cz8SAb_0AYq-10" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;输出拨测告警详情/话单分析结果/涉及哪些网元&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;输出XX小时内的拨测情况&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
           <mxGeometry x="1040" y="678.03" width="120" height="61.97" as="geometry" />
         </mxCell>
+        <mxCell id="m7Ru2etV0cz8SAb_0AYq-14" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;当前共有1/2级黄金指标告警X条，详情分别如下：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;1、XX&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2、XX...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;异常指标趋势图为：&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="1230" y="526.76" width="320.3" height="226.35" as="geometry" />
+        </mxCell>
         <mxCell id="lQpoQ2O5hxIxhMuzBCD2-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="200" y="1330" width="50" height="25" as="geometry" />
         </mxCell>
