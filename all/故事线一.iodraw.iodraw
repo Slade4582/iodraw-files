@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="2">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="V1V2">
     <mxGraphModel dx="744" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-NsaiSigj8xVlVH9FnGk" name="V3">
-    <mxGraphModel dx="1562" dy="957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="545" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -477,6 +477,320 @@
           <mxGeometry x="260" y="1330" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_XmnHBUvvoRM3XwwJ4Tu-46" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;智能体输出内容&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1372.5" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0DW6mWP0mrSlXiWPxUdS" name="V4">
+    <mxGraphModel dx="1077" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="110" width="3320" height="1176.6470588235295" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-2" value="&lt;p class=&quot;MsoNormal&quot;&gt;故事线一&lt;span lang=&quot;EN-GB&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fillColor=#bac8d3;strokeColor=#23445d;align=center;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-1">
+          <mxGeometry x="80" y="106.6470588235294" width="2970" height="1069.9982352941176" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-3" value="SideBar" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-2">
+          <mxGeometry x="20" width="2950" height="130.58823529411762" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-3" target="lQpoQ2O5hxIxhMuzBCD2-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="76" y="65.29411764705881" as="sourcePoint" />
+            <mxPoint x="116" y="65.29411764705881" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-5" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;业务受损事件创建&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-3">
+          <mxGeometry x="46" y="48.970588235294116" width="80" height="27.205882352941174" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-6" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;出现异常，触发规则&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-3">
+          <mxGeometry x="155" y="48.970588235294116" width="90" height="27.205882352941174" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-7" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;我要创建容灾倒换看板，xx大区xx资源池&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-3">
+          <mxGeometry x="2419" y="46.24999999999999" width="110" height="38.088235294117645" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-8" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;创建看板并输出：是否需要进行一键容灾倒换操作？&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;（演示：提示用户“您的本次操作并不会触发真正的一键容灾操作”）&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;fontSize=9;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-3">
+          <mxGeometry x="2569" y="32.647058823529406" width="150" height="65.29411764705881" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-3" source="lQpoQ2O5hxIxhMuzBCD2-7" target="lQpoQ2O5hxIxhMuzBCD2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-3" source="lQpoQ2O5hxIxhMuzBCD2-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2809" y="65.29411764705881" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-11" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;是&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;fontSize=9;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-3">
+          <mxGeometry x="2759" y="48.970588235294116" width="30" height="32.647058823529406" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-3" source="lQpoQ2O5hxIxhMuzBCD2-8" target="lQpoQ2O5hxIxhMuzBCD2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-13" value="&lt;span style=&quot;font-size: 9px; text-align: left;&quot;&gt;进入一键容灾界面执行倒换，抢通结束。&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-3">
+          <mxGeometry x="2810" y="39.4485294117647" width="120" height="51.69117647058823" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-2" source="lQpoQ2O5hxIxhMuzBCD2-6" target="lQpoQ2O5hxIxhMuzBCD2-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="206.76470588235293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;IVR通知用户&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-14">
+          <mxGeometry x="-0.5328" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-2" source="lQpoQ2O5hxIxhMuzBCD2-58" target="lQpoQ2O5hxIxhMuzBCD2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-17" value="d" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-2">
+          <mxGeometry x="20" y="130.58823529411762" width="2950" height="939.41" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-78" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="960" y="345.3" width="480" height="117.24" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-22" target="lQpoQ2O5hxIxhMuzBCD2-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="308" />
+              <mxPoint x="320" y="101" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-19" value="正常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-18">
+          <mxGeometry x="0.5341" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-22" target="lQpoQ2O5hxIxhMuzBCD2-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="306.94117647058823" />
+              <mxPoint x="320" y="522.4117647058823" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-21" value="网元级异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-20">
+          <mxGeometry x="0.607" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="100" y="201.38235294117646" width="200" height="212.20588235294116" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1、查询全国核心网/X大区/X省核心网运行情况&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、当前网络运行有何异常？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="110" y="232.6691176470588" width="180" height="70.73529411764706" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-24" value="&lt;font size=&quot;1&quot;&gt;当前全国/X省核心网/X网元运行正常。&lt;/font&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;黄金指标、拨测、动网情况、设备告警均无异常。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;+引导词：您还可以进行：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;div&gt;1、请查询XX省当前核心网运行情况&lt;/div&gt;&lt;div&gt;2、请查询XX省近1天所有告警工单&lt;/div&gt;&lt;div&gt;3、请查询近1天跨省物联网投诉工单&lt;/div&gt;&lt;div&gt;4、请进行脚本核查。&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="429.85" y="47" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-26" target="lQpoQ2O5hxIxhMuzBCD2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;当前&lt;b&gt;安徽（、江苏、青海）/大区&lt;/b&gt;核心网运行存在异常情况！&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;+受损事件详情。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;【安徽省】&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;黄金指标告警X项、拨测告警X项、异常动网X项、设备告警X项&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;异常情况详情如下：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·黄金指标：当&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;前活跃&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;1/2&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;级黄金指标告警共&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;X&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;条。近&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;72&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;小时内共产生&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;1/2&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;级告警&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;X&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;条。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;XX网元XX指标劣化至XX%&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·拨测情况：&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;拨测告警XX条，主要影响XX业务&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;30分钟内A省拨测XX次，失败XX次，拨测成功率为XX%&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·动网情况：当前异常动网告警X条。近72小时内安徽动网次数为X次。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·设备告警：当前活跃严重设备告警X条。近72小时内设备告警共X条。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div&gt;【江苏省】&lt;/div&gt;&lt;div&gt;黄金指标告警X项、拨测告警X项、异常动网X项、设备告警X项&lt;br&gt;&lt;/div&gt;&lt;div&gt;异常情况详情如下：XXX&lt;/div&gt;&lt;div&gt;&lt;div&gt;【青海省】&lt;/div&gt;&lt;div&gt;黄金指标告警X项、拨测告警X项、异常动网X项、设备告警X项&lt;br&gt;&lt;/div&gt;&lt;div&gt;异常情况详情如下：XXX&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="420" y="184" width="340" height="254.47" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-33" target="lQpoQ2O5hxIxhMuzBCD2-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="327.61764705882354" />
+              <mxPoint x="960" y="232.94117647058823" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-28" value="全量分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-27">
+          <mxGeometry x="0.392" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-33" target="lQpoQ2O5hxIxhMuzBCD2-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="327.61764705882354" />
+              <mxPoint x="960" y="401.6176470588235" />
+              <mxPoint x="1041" y="401.6176470588235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-30" value="单维度分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-29">
+          <mxGeometry x="0.4557" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-33" target="lQpoQ2O5hxIxhMuzBCD2-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="327.61764705882354" />
+              <mxPoint x="960" y="740.0588235294117" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-32" value="定时播报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-31">
+          <mxGeometry x="0.7747" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-33" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;引导词：我可以帮您：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1、进行异常分析并给出建议&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、输出黄金指标告警详情/异常指标趋势图（+变化总结）&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;div&gt;5、输出拨测告警详情/话单分析结果/涉及哪些网元&lt;/div&gt;&lt;div&gt;6、我默认提供近30分钟的拨测情况，您也可以问我XX小时的拨测情况。&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;7、每分钟定时播报异常情况&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;fontSize=10;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="800" y="216.23" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-35" target="lQpoQ2O5hxIxhMuzBCD2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-35" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;当前&lt;b&gt;XX网元&lt;/b&gt;核心网运行存在异常情况！&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;+受损事件详情。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;异常情况详情如下：&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·黄金指标：&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot;&gt;当&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;前活跃&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;1/2&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;级黄金指标告警共&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;X&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;条。近&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;72&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;小时内共产生&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;1/2&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;级告警&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-GB&quot;&gt;X&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;条。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;XX网元XX指标劣化至XX%&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·拨测情况：&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;拨测告警XX条，主要影响XX业务，联合定位异常网元可能为：APP-XXX（异常时间XXX）【若联合定位到了网元，预判该网元有问题，若未联合定位到具体网元，呈现“未定位到具体异常网元”】&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;30分钟内A省拨测XX次，失败XX次，拨测成功率为XX%&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·动网情况：&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;当前异常动网告警X条。近72小时内安徽动网次数为X次。&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·设备告警：当前活跃严重设备告警X条。&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="429.85" y="446.24" width="310.15" height="152.35" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-37" target="lQpoQ2O5hxIxhMuzBCD2-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-37" value="&lt;font size=&quot;1&quot;&gt;请进一步分析&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;/直接点击引导词&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="1040" y="208.18382352941177" width="90" height="48.970588235294116" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-39" target="lQpoQ2O5hxIxhMuzBCD2-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-39" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·&lt;/font&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;已完成CHR工具调用分析&lt;/span&gt;&lt;font size=&quot;1&quot;&gt;：卡片+文字总结（top3错误码+原因+处理建议）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;eg：错误码+可能是UE支持的算法和AMF支持的算法不匹配。请收集用户跟踪，联系华为技术支持。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·已完成拨测异常分析：&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot;&gt;联合定位异常网元可能为：APP-XXXXX（异常时间XXX）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·&lt;/font&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;已调用案例库&lt;/span&gt;&lt;font size=&quot;1&quot;&gt;，匹配到如下案例：XX。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="1460" y="293.88235294117646" width="370" height="119.70588235294116" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-40" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1、查询X类网元/X台网元运行情况&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、当前X类网元/X台网元有何异常？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="110" y="314.2867647058823" width="180" height="70.73529411764706" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-22" target="lQpoQ2O5hxIxhMuzBCD2-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-42" value="全国/大区/省级异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-41">
+          <mxGeometry x="-0.0642" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-44" target="lQpoQ2O5hxIxhMuzBCD2-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-44" value="&lt;font size=&quot;1&quot;&gt;查询详情&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="1041" y="376.5882352941176" width="90" height="48.970588235294116" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-46" target="lQpoQ2O5hxIxhMuzBCD2-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-46" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;·已完成CHR工具调用分析：卡片+文字总结（top3错误码+原因+处理建议）&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;eg：错误码+可能是UE支持的算法和AMF支持的算法不匹配。请收集用户跟踪，联系华为技术支持。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;/·已完成厂商工具调用分析：xxx&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;/·已调用案例库，匹配到如下案例：XX。&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="1170" y="345.30147058823525" width="250" height="111.54411764705881" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-51" target="lQpoQ2O5hxIxhMuzBCD2-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1295" y="620.3529411764705" />
+              <mxPoint x="1086" y="620.3529411764705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-48" value="继续进行单维度分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-47">
+          <mxGeometry x="-0.139" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-51" target="lQpoQ2O5hxIxhMuzBCD2-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-50" value="全量分析" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-49">
+          <mxGeometry x="-0.3091" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-51" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;引导词：您还可以继续进行如下分析：&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1、进行异常分析并给出建议&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2、调用CHR工具分析指标情况&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;3、调用厂商工具分析设备告警&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;4、调用案例库分析&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;fontSize=10;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="1185" y="500.6470588235294" width="220" height="87.05882352941175" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-53" target="lQpoQ2O5hxIxhMuzBCD2-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-53" value="&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: x-small;&quot;&gt;综上分析，（智能体总结工具分析结果）&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;情况1（单维度异常）：XX网元目前出现黄金指标异常，原因为（top1 CHR错误码）+CHR建议，请持续观察指标情况。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;情况2（多维度异常）：XX网元同时出现黄金指标指标异常及拨测异常，且于XX时间进行过动网操作。解决方案&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot;&gt;可能涉及倒换操作，我可以为您打开倒换功能页面。&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;引导词：&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;1、创建指标观测看板&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;2、创建容灾倒换看板&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;3、进行一键容灾倒换&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="1900" y="261.50735294117646" width="290" height="184.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-55" target="lQpoQ2O5hxIxhMuzBCD2-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-55" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;进行异常分析并给出建议&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;/直接点击引导词&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="1580" y="519.6911764705882" width="130" height="48.970588235294116" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-57" target="lQpoQ2O5hxIxhMuzBCD2-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-57" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;帮我创建XX看板&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;/直接点击引导词&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="2240" y="329.5220588235294" width="90" height="48.970588235294116" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-58" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;倒换看板创建路径为：Falcomm首页-智能体-XX。&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;可在Sidebar输入“&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;我要创建容灾倒换看板，XX大区XXX资源池”&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;引导词：抢通阶段可为您进行指标值守&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;1、查询XX网元指标情况&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;2、定时播报xx指标情况&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;rounded=0;fontSize=10;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="2380" y="304.7647058823529" width="190" height="97.94117647058823" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-63" target="lQpoQ2O5hxIxhMuzBCD2-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="687.8235294117646" />
+              <mxPoint x="320" y="642.1176470588235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-60" value="正常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-59">
+          <mxGeometry x="0.238" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-63" target="lQpoQ2O5hxIxhMuzBCD2-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="688" />
+              <mxPoint x="320" y="790" />
+              <mxPoint x="430" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-62" value="异常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-61">
+          <mxGeometry x="0.5247" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-63" value="查询XX网元黄金指标情况&lt;div&gt;查询XX网元拨测情况&lt;/div&gt;&lt;div&gt;查询XX网元告警情况&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=10;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="105" y="653" width="180" height="70.73529411764706" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-64" value="&lt;font size=&quot;1&quot;&gt;当前X网元&lt;/font&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;黄金指标/拨测/设备告警无异常&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;+引导词：您还可以进行：&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;div&gt;1、请查询XX省当前核心网运行情况&lt;/div&gt;&lt;div&gt;2、请查询XX省近1天所有告警工单&lt;/div&gt;&lt;div&gt;3、请查询近1天跨省物联网投诉工单&lt;/div&gt;&lt;div&gt;4、请进行脚本核查。&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="429.85" y="620.35" width="260" height="106.65" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-66" target="lQpoQ2O5hxIxhMuzBCD2-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="412.764705882353" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-66" value="&lt;font size=&quot;1&quot;&gt;当前X网元&lt;/font&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;黄金指标/拨测/设备告警存在异常！&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;异常情况详情如下：xxx&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="429.85" y="767.2941176470588" width="260" height="43.52941176470588" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-67" value="&lt;font size=&quot;1&quot;&gt;（每分钟）定时播报异常情况&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;rounded=0;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="1040" y="712.8529411764705" width="140" height="54.41176470588235" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-71" target="lQpoQ2O5hxIxhMuzBCD2-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-71" target="lQpoQ2O5hxIxhMuzBCD2-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-70" value="修改播报周期" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lQpoQ2O5hxIxhMuzBCD2-69">
+          <mxGeometry x="-0.0827" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-71" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;当前X省份/X网元/...（与之前用户查询粒度一致）运行存在异常情况！&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·黄金指标：&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;异常X项。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;XX网元XX指标劣化至XX%&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·拨测情况：最近一次（时间）该网元拨测任务X次，成功X次、失败X次，拨测成功率为XX%。+当前生成拨测告警X项。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·动网情况：近72小时内安徽动网次数为X次，其中非割接时段动网x次。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;·设备告警：当前活跃设备告警X条。&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;+同上一次播报差异对比&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;+引导词：&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;1、如需停止播报，请输入“停止播报”&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;2、是否修改播报周期为3min/5min？&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;3、是否进行异常分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="lQpoQ2O5hxIxhMuzBCD2-17">
+          <mxGeometry x="1220" y="644.2941176470588" width="300" height="226.35294117647058" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lQpoQ2O5hxIxhMuzBCD2-17" source="lQpoQ2O5hxIxhMuzBCD2-67" target="lQpoQ2O5hxIxhMuzBCD2-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1330" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1375" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-75" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;用户输入指令/点击卡片&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1330" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lQpoQ2O5hxIxhMuzBCD2-76" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;智能体输出内容&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="1372.5" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
